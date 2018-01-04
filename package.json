@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-tiled",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tiled Map (TMX) importer plugin for rollup",
   "main": "dist/rollup-plugin-tiled.js",
   "jsnext:main": "dist/rollup-plugin-tiled.mjs",
@@ -9,7 +9,9 @@
     "prepublish": "npm run build"
   },
   "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
-  "bugs":{ "url" : "https://github.com/konsumer/rollup-plugin-tiled/issues"},
+  "bugs": {
+    "url": "https://github.com/konsumer/rollup-plugin-tiled/issues"
+  },
   "repository": "github:konsumer/rollup-plugin-tiled",
   "license": "MIT",
   "files": [
